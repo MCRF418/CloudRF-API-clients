@@ -9,6 +9,7 @@
 ## 2025-03-10
 
 - Removed `kmzppa` as an option when running `area` requests.
+- Updated Templates.
 
 ## 2024-10-16
 
